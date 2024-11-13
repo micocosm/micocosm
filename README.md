@@ -25,3 +25,5 @@ Java | Python | Azure | Docker | PostgreSQL | Slack | Bitbucket
 
 #### 🤝 Let's Connect!
 I’m always open to collab on innovative ideas. Drop by, explore my repos, or say hello!
+
+![GitHub 贪吃蛇贡献图](https://raw.githubusercontent.com/micocosm/micocosm/output/github-contribution-grid-snake.svg)
